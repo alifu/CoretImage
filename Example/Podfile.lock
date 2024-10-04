@@ -1,0 +1,16 @@
+PODS:
+  - CoretImage (0.1.0)
+
+DEPENDENCIES:
+  - CoretImage (from `../`)
+
+EXTERNAL SOURCES:
+  CoretImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoretImage: b89151c7635f02cf45f95cb3add6b2b7b9024a4d
+
+PODFILE CHECKSUM: d6f0193956560b7c72ff56881fdca63cbc9bd138
+
+COCOAPODS: 1.15.2
