@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CoretImage'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CoretImage.'
+  s.summary          = 'Coret is indonesian language, the meaning is like stroke, scratch'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
